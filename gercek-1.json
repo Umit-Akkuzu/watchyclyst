@@ -679,7 +679,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -791,8 +791,8 @@
     "title": "Vincenzo",
     "description": "İtalya’da yetişmiş bir mafya avukatı, Güney Kore’ye dönüp adalet ararken kendini karmaşık olayların içinde bulur.",
     "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19515278_b_v13_aa.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -812,8 +812,8 @@
     "title": "Itaewon Class",
     "description": "Haksızlığa uğrayan genç bir adam, kendi barını açarak başarıya ve intikama ulaşmaya çalışır.",
     "poster": "https://i0.wp.com/www.heroic-cinema.com/wp-content/uploads/2021/09/Itaewon_Class.jpg?fit=263%2C375&ssl=1&w=144",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -833,8 +833,8 @@
     "title": "Crash Landing on You",
     "description": "Bir Güney Koreli iş kadını, Kuzey Kore’ye paraşütle düşer ve bir askerin yardımıyla hayatta kalmaya çalışır.",
     "poster": "https://i.pinimg.com/736x/f0/dc/6d/f0dc6d94b9c50893b594316959272646.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -855,8 +855,8 @@
     "title": "Kingdom",
     "description": "Bir zombi salgınıyla mücadele eden Joseon Hanedanlığı'nda geçen tarihi bir korku dizisi.",
     "poster": "https://asianwiki.com/images/b/b6/Kingdom_%28Korean_Drama%29-TP.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -876,8 +876,8 @@
     "title": "My Name",
     "description": "Babasının ölümünün intikamını almak isteyen bir kadın polis teşkilatına sızar.",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWxdQ3vk5Q7BuaW6EkK95izMlHmb67H_QCw&s",
-    "imdb": 7.6,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -921,8 +921,8 @@
     "title": "Extraordinary Attorney Woo",
     "description": "Otizmli genç bir avukatın adalet ve toplumla mücadelesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/414/1035908.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -942,12 +942,12 @@
     "title": "The Old Guard 2",
     "description": "Ölümsüzler yeni düşmanlarla ve geçmişlerinden gelen tehditlerle karşı karşıya kalır.",
     "poster": "https://image.tmdb.org/t/p/w1280/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -959,8 +959,8 @@
     "title": "The Glory",
     "description": "Lisedeyken zorbalığa uğrayan bir kadın, yıllar sonra intikam almak için geri döner.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/433/1084564.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -979,8 +979,8 @@
     "title": "Alchemy of Souls",
     "description": "Gizemli büyüler ve ruh değiştirme yeteneğiyle kaderleri kesişen gençler.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/431/1079679.jpg",
-    "imdb": 8.8,
-    "tmdb": 8.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -1001,8 +1001,8 @@
     "title": "Twenty-Five Twenty-One",
     "description": "Kriz zamanında hayallerinin peşinden koşan gençlerin dostluk ve aşk hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/390/977086.jpg",
-    "imdb": 8.4,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -1022,8 +1022,8 @@
     "title": "Sweet Home",
     "description": "İnsanlar canavara dönüşmeye başlarken bir apartman sakinleri hayatta kalmak için mücadele eder.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/285/712969.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -1479,7 +1479,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 1994,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -2232,8 +2232,8 @@
     "title": "Signal",
     "description": "Bir dedektif geçmişten gelen gizemli telsiz mesajlarıyla eski cinayetleri çözmeye başlar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/139/349655.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2254,8 +2254,8 @@
     "title": "Descendants of the Sun",
     "description": "Bir asker ile bir doktorun savaş ve barış ortamında geçen aşk hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115575.jpg",
-    "imdb": 8.4,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2276,8 +2276,8 @@
     "title": "Hotel Del Luna",
     "description": "Sadece hayaletlerin konakladığı gizemli bir oteli ve sıra dışı sahibini konu alır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/204/510214.jpg",
-    "imdb": 6.1,
-    "tmdb": 6.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2297,8 +2297,8 @@
     "title": "It's Okay to Not Be Okay",
     "description": "Bir psikiyatri hemşiresi ile duygusal sorunları olan bir yazarın sıra dışı yakınlaşması.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/260/651608.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2317,8 +2317,8 @@
     "title": "While You Were Sleeping",
     "description": "Geleceği rüyalarında gören bir kadın ve bir savcının hayatı kesişir.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/127/318974.jpg",
-    "imdb": 6.8,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2339,8 +2339,8 @@
     "title": "W: Two Worlds",
     "description": "Bir doktor, çizgi roman dünyası ile gerçek dünya arasında gidip gelen bir adamla karşılaşır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/68/170142.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2360,8 +2360,8 @@
     "title": "Mr. Sunshine",
     "description": "19. yüzyıl sonlarında Kore’de geçen epik aşk, ihanet ve mücadele hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/159/399228.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2381,8 +2381,8 @@
     "title": "Start-Up",
     "description": "Güney Kore’nin Silikon Vadisi’nde hayal kuran gençlerin girişimcilik yolculuğu.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/274/685409.jpg",
-    "imdb": 8.4,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2402,8 +2402,8 @@
     "title": "Reply 1988",
     "description": "1988 yılında bir mahallede geçen sıcak aile ve arkadaşlık hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/27/67574.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2424,8 +2424,8 @@
     "title": "My Mister",
     "description": "Hayatın zorluklarıyla mücadele eden iki farklı nesilden insanın duygusal yakınlaşması.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/150/375701.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2443,8 +2443,8 @@
     "title": "Mouse",
     "description": "Bir seri katili yakalamaya çalışan dedektifler, insan beyninde suçluluğun izini arar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/296/741376.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2464,8 +2464,8 @@
     "title": "Prison Playbook",
     "description": "Bir beyzbol oyuncusunun hapishanedeki sıradışı hayatı ve mahkumlarla ilişkileri.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/134/336265.jpg",
-    "imdb": 9.4,
-    "tmdb": 9.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2484,8 +2484,8 @@
     "title": "The Uncanny Counter",
     "description": "Doğaüstü güçlere sahip bir ekip, kötülükle savaşmak için noodle restoranı işletir.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/470/1175302.jpg",
-    "imdb": 6.1,
-    "tmdb": 6.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2505,8 +2505,8 @@
     "title": "Healer",
     "description": "Gizemli bir gece kuryesi ve bir muhabirin geçmişe uzanan macerası.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/17/44260.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2527,8 +2527,8 @@
     "title": "Romance is a Bonus Book",
     "description": "Bir yayınevinde yolları kesişen iki eski arkadaşın ikinci bahar hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/179/449031.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2547,8 +2547,8 @@
     "title": "Sky Castle",
     "description": "Kore’nin en zengin ailelerinin eğitim takıntısı ve prestij için verdiği çetin mücadele.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/174/435629.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2568,8 +2568,8 @@
     "title": "Doctors",
     "description": "Sert mizaçlı bir lise öğrencisi, doktor olarak hayata ve aşkına yeni bir başlangıç yapar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/62/156967.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2590,8 +2590,8 @@
     "title": "Hometown Cha-Cha-Cha",
     "description": "Şehirli bir dişçi, sahil kasabasına taşınır ve kasabanın yakışıklı adamıyla eğlenceli bir ilişki yaşar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/349/872683.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2611,8 +2611,8 @@
     "title": "Business Proposal",
     "description": "Kendisini başka biri gibi tanıtan genç bir kadın ve patronu arasında geçen eğlenceli romantik hikaye.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/394/986401.jpg",
-    "imdb": 9.4,
-    "tmdb": 9.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2671,15 +2671,15 @@
     "title": "The Twilight Saga: Eclipse",
     "description": "Bella'nın, vampirler ve kurt adamlar arasındaki artan gerilimin ortasında Edward ve Jacob arasında bir seçim yapması gerekir.",
     "poster": "https://cdn2.bigcommerce.com/server4900/364bb/products/170399/images/126130/281783__07792.1342533732.1280.1280.jpg?c=2",
-    "imdb": 7.2,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "movie",
     "platforms": [
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -2897,8 +2897,8 @@
     "title": "Harry Potter and the Sorcerer's Stone",
     "description": "Genç büyücü Harry Potter, Hogwarts Cadılık ve Büyücülük Okulu'na kabul edilir ve büyü dünyasındaki macerası başlar.",
     "poster": "https://atthemovies.uk/cdn/shop/products/HarryPotterAndTheSorcerersStone2001us27x40in325u.jpg?v=1621388128",
-    "imdb": 7.0,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "USA",
     "type": "movie",
     "platforms": [
@@ -2938,15 +2938,15 @@
     "title": "Harry Potter and the Chamber of Secrets",
     "description": "Harry ve arkadaşları Hogwarts'ta gizemli olaylarla karşılaşır ve Sırlar Odası'nın sırlarını açığa çıkarır.",
     "poster": "https://artofthemovies.co.uk/cdn/shop/files/IMG_4558_720x@2x.jpg?v=1698947681",
-    "imdb": 8.0,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "USA",
     "type": "movie",
     "platforms": [
       "HBO Max",
       "Peacock"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -2958,8 +2958,8 @@
     "title": "The King: Eternal Monarch",
     "description": "Paralel evrenler arasında geçiş yapan bir kral ve bir dedektifin aşk hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/255/637568.jpg",
-    "imdb": 6.6,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -2978,12 +2978,12 @@
     "title": "Devlet Başkanları",
     "description": "İngiltere Başbakanı ve ABD Başkanı, ülkeleri arasındaki açık rekabete rağmen güçlü bir komployla yüzleşmek zorunda kalır ve hayatta kalmak için güçlerini birleştirmek zorundadırlar.",
     "poster": "https://image.tmdb.org/t/p/w1280/5zHR7jKgBmfz4h8BXJWzNFAcU48.jpg",
-    "imdb": 5.6,
-    "tmdb": 5.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD / İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -2995,14 +2995,14 @@
     "title": "Our Blues",
     "description": "Jeju Adası'nda yaşayan farklı karakterlerin iç içe geçmiş hayat hikayeleri.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/399/998175.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3014,14 +3014,14 @@
     "title": "Move to Heaven",
     "description": "Otistik genç ve amcası, ölenlerin geride bıraktıklarını temizlerken hayatı yeniden keşfeder.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/308/770304.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3033,14 +3033,14 @@
     "title": "Hellbound",
     "description": "İnsanlar, cehennemden gelen varlıklar tarafından aniden mahkum edilmeye başlar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/540/1351542.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3052,14 +3052,14 @@
     "title": "Navillera",
     "description": "70 yaşında balet olma hayalini gerçekleştirmeye çalışan bir adam ve genç bir dansçı.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/297/743912.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3071,14 +3071,14 @@
     "title": "The Silent Sea",
     "description": "Ay'daki terk edilmiş bir araştırma tesisine gönderilen ekibin hayatta kalma mücadelesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/378/946511.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3090,14 +3090,14 @@
     "title": "Stranger",
     "description": "Duygusal olarak kısıtlı bir savcı, bir dedektifle birlikte yolsuzluğu ortaya çıkarır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/265/662957.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3109,14 +3109,14 @@
     "title": "Memories of the Alhambra",
     "description": "Bir CEO ve bir pansiyon sahibi, arttırılmış gerçeklik oyununun sırlarını keşfeder.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/173/433813.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3128,14 +3128,14 @@
     "title": "My Liberation Notes",
     "description": "Üç kardeşin hayatından sıkılmaları ve özgürlük arayışları.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/397/993422.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3147,14 +3147,14 @@
     "title": "Flower of Evil",
     "description": "Sevgi dolu bir koca, karısının dedektif olarak karanlık geçmişini araştırmasını engellemeye çalışır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/262/655423.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3166,14 +3166,14 @@
     "title": "Because This is My First Life",
     "description": "Evsiz bir kadın ve ev sahibi erkek, evlilik kontratı ile aynı evde yaşamaya başlar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/128/321500.jpg",
-    "imdb": 6.8,
-    "tmdb": 6.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3192,7 +3192,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3211,7 +3211,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3230,7 +3230,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3249,7 +3249,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3268,7 +3268,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3287,7 +3287,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3306,7 +3306,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3325,7 +3325,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3344,7 +3344,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3363,7 +3363,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3382,7 +3382,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3401,7 +3401,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3420,7 +3420,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3439,7 +3439,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3451,14 +3451,14 @@
     "title": "Love Alarm",
     "description": "Bir uygulama sayesinde yakınındaki birinin sana aşık olup olmadığını görebileceğin bir aşk üçgeni.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/298/745437.jpg",
-    "imdb": 6.9,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3470,14 +3470,14 @@
     "title": "Nevertheless",
     "description": "Flört etmeye inanmayan bir kız ve aşkı sevmeyen bir erkek, birbirlerine çekilir.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/326/815740.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3489,14 +3489,14 @@
     "title": "My ID is Gangnam Beauty",
     "description": "Geçirdiği estetik ameliyat sonrası üniversiteye başlayan genç bir kızın özgüven yolculuğu.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/160/402496.jpg",
-    "imdb": 6.4,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3508,14 +3508,14 @@
     "title": "D.P.",
     "description": "Askerde firarileri yakalamakla görevli bir ekibin yaşadıkları ve savaşın psikolojisi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/481/1202668.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3527,14 +3527,14 @@
     "title": "When the Camellia Blooms",
     "description": "Bir anne ve kafe sahibi, küçük bir kasabada aşk ve tehlikeyle karşılaşır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/210/526021.jpg",
-    "imdb": 9.0,
-    "tmdb": 9.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3546,14 +3546,14 @@
     "title": "Strong Girl Bong-soon",
     "description": "Doğuştan süper güçlere sahip genç bir kadın, bir CEO'nun koruması olur.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/532/1331189.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3565,14 +3565,14 @@
     "title": "100 Days My Prince",
     "description": "Amnezi yaşayan bir prens, sıradan bir köylü gibi yaşamaya başlar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/532/1330867.jpg",
-    "imdb": 7.8,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3584,14 +3584,14 @@
     "title": "W: Two Worlds Apart",
     "description": "Bir kadın, babasının yarattığı çizgi roman evrenine çekilir ve oradaki kahramanla aşk yaşar.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/68/170142.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3603,14 +3603,14 @@
     "title": "Pinocchio",
     "description": "Yalancıları hemen yakalayan bir kadının ve adalet için savaşan bir adamın hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/18/45357.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3622,14 +3622,14 @@
     "title": "The Sound of Magic",
     "description": "Bir sihirbaz ve umudunu kaybetmiş iki gencin hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/404/1011709.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3641,14 +3641,14 @@
     "title": "It's Okay, That's Love",
     "description": "Ruhsal sorunlarla boğuşan bir yazar ile psikiyatrist arasında gelişen beklenmedik aşk.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/151/379052.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3660,14 +3660,14 @@
     "title": "My Love from the Star",
     "description": "400 yıl boyunca dünyada yaşamış bir uzaylı ve ünlü bir oyuncunun aşkı.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/18/47470.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3679,14 +3679,14 @@
     "title": "Hometown",
     "description": "Gizemli bir cinayeti çözmeye çalışan bir dedektifin hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/358/896927.jpg",
-    "imdb": 5.9,
-    "tmdb": 5.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3698,14 +3698,14 @@
     "title": "One Spring Night",
     "description": "Beklenmedik bir anda karşılaşan iki insanın ilişkisi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/193/483379.jpg",
-    "imdb": 7.9,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3717,14 +3717,14 @@
     "title": "Cheese in the Trap",
     "description": "Üniversite öğrencisi bir kız, çekici fakat tehlikeli bir adamla karşılaşır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/33/82945.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3736,14 +3736,14 @@
     "title": "Her Private Life",
     "description": "Sanat galerisi yöneticisi ve gizli bir K-pop fanı olan kadının romantik hikayesi.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/189/473518.jpg",
-    "imdb": 6.2,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3755,14 +3755,14 @@
     "title": "Doctor Stranger",
     "description": "Kuzey Kore'den kaçan bir doktorun, Güney Kore'de tıp kariyerine devam etme çabası.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/27/68060.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3774,8 +3774,8 @@
     "title": "Sisyphus: The Myth",
     "description": "Bir mühendis ve savaşçı kadın, dünyanın sonunu engellemeye çalışır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/294/735193.jpg",
-    "imdb": 5.0,
-    "tmdb": 5.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -3793,14 +3793,14 @@
     "title": "Rookie Historian Goo Hae-Ryung",
     "description": "Kadınların tarihçi olması yasakken hayallerinin peşinden giden bir kadın.",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdOG8oWsUNbY8YMFNItOgLp2HSJUsrsR_9Q&s",
-    "imdb": 7.6,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3812,8 +3812,8 @@
     "title": "Extracurricular",
     "description": "Bir lise öğrencisi, para kazanmak için tehlikeli bir işe bulaşır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/466/1166257.jpg",
-    "imdb": 9.3,
-    "tmdb": 9.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
@@ -3831,14 +3831,14 @@
     "title": "Tale of the Nine Tailed",
     "description": "Mitolojik bir tilki, modern Seul'de gizemli olaylarla uğraşır.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/454/1135598.jpg",
-    "imdb": 7.8,
-    "tmdb": 7.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3850,14 +3850,14 @@
     "title": "Abyss",
     "description": "Sihirli bir küreyle ölenler farklı bedenlerde tekrar hayata döner.",
     "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/191/477682.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3877,7 +3877,7 @@
       "HBO",
       "HBO Max"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3897,7 +3897,7 @@
       "Amazon Prime Video",
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3917,7 +3917,7 @@
       "Netflix",
       "Max"
     ],
-    "year": 1997,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3936,7 +3936,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3955,7 +3955,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 1994,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3974,7 +3974,7 @@
     "platforms": [
       "Max"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -3993,7 +3993,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4013,7 +4013,7 @@
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4032,7 +4032,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4051,7 +4051,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4070,7 +4070,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4089,7 +4089,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4108,7 +4108,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4127,7 +4127,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 1996,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4146,7 +4146,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4165,7 +4165,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4184,7 +4184,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4203,7 +4203,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4223,7 +4223,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4242,7 +4242,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4261,7 +4261,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4280,7 +4280,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4299,7 +4299,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4318,7 +4318,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4337,7 +4337,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4356,7 +4356,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4375,7 +4375,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4394,7 +4394,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4413,7 +4413,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4432,7 +4432,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4451,7 +4451,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1991,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4470,7 +4470,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4489,7 +4489,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4509,7 +4509,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4528,7 +4528,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4547,7 +4547,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4566,7 +4566,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4585,7 +4585,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4604,7 +4604,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4623,7 +4623,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4642,7 +4642,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4654,14 +4654,14 @@
     "title": "Crash Course in Romance",
     "description": "Bir matematik hocası ve tezcanlı bir annenin sürprizli aşk hikayesi.",
     "poster": "",
-    "imdb": 8.2,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4673,12 +4673,12 @@
     "title": "The Rookie",
     "description": "Orta yaşlı John Nolan, LAPD’ye geç başlayan bir memur olarak polis teşkilatına katılır ve hem suçla hem de kişisel zorluklarla yüzleşir.",
     "poster": "https://image.tmdb.org/t/p/w1280/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4690,14 +4690,14 @@
     "title": "Racket Boys",
     "description": "Küçük bir kasabada, badminton takımının şampiyonluk mücadelesi.",
     "poster": "",
-    "imdb": 8.5,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4709,14 +4709,14 @@
     "title": "Tomorrow",
     "description": "Ölüleri kurtarmakla görevli bir grup ruhun fantastik hikayesi.",
     "poster": "",
-    "imdb": 8.6,
-    "tmdb": 8.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4728,14 +4728,14 @@
     "title": "Juvenile Justice",
     "description": "Genç suçlularla ilgili davalara bakan sert bir hakimin değişimi.",
     "poster": "",
-    "imdb": 8.3,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4747,14 +4747,14 @@
     "title": "Good Manager",
     "description": "Bir şirketin yozlaşmasına karşı savaşan dürüst bir muhasebeci.",
     "poster": "",
-    "imdb": 6.8,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4766,14 +4766,14 @@
     "title": "Life",
     "description": "Bir üniversite hastanesindeki güç mücadeleleri ve etik ikilemler.",
     "poster": "",
-    "imdb": 8.2,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4785,14 +4785,14 @@
     "title": "Forest",
     "description": "Geçmişlerinin izleriyle baş etmeye çalışan iki insanın iyileşme hikayesi.",
     "poster": "",
-    "imdb": 7.7,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4804,14 +4804,14 @@
     "title": "Something in the Rain",
     "description": "Uzun yıllar sonra yolları kesişen iki eski dostun sıcak aşk hikayesi.",
     "poster": "",
-    "imdb": 7.9,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4830,7 +4830,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4849,7 +4849,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4868,7 +4868,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4887,7 +4887,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4906,7 +4906,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4925,7 +4925,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 1994,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4944,7 +4944,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4963,7 +4963,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -4982,7 +4982,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5001,7 +5001,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5020,7 +5020,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5039,7 +5039,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5058,7 +5058,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5077,7 +5077,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5096,7 +5096,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5108,14 +5108,14 @@
     "title": "The Tale of Nokdu",
     "description": "Kadın kılığına giren bir adamın, gizli bir köyde yaşadıkları ve aşkı.",
     "poster": "",
-    "imdb": 6.5,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5127,14 +5127,14 @@
     "title": "The World of the Married",
     "description": "Bir doktorun mükemmel sandığı evliliği ihanetle sarsılır.",
     "poster": "",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5146,14 +5146,14 @@
     "title": "Reply 1994",
     "description": "1994 yılında, yedi öğrencinin Seul'de aynı evde yaşarken yaşadıkları.",
     "poster": "",
-    "imdb": 7.6,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5165,14 +5165,14 @@
     "title": "Do Do Sol Sol La La Sol",
     "description": "Başarısızlıktan sonra küçük bir kasabaya taşınan bir piyanist ve yeni arkadaşları.",
     "poster": "",
-    "imdb": 7.8,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5184,14 +5184,14 @@
     "title": "Arthdal Chronicles",
     "description": "Antik bir diyarın kaderini değiştiren savaşçıların epik hikayesi.",
     "poster": "",
-    "imdb": 8.6,
-    "tmdb": 8.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5203,14 +5203,14 @@
     "title": "Watcher",
     "description": "Bir dedektif, bir savcı ve bir içişleri memurunun adalet arayışı.",
     "poster": "",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5222,14 +5222,14 @@
     "title": "Designated Survivor: 60 Days",
     "description": "Başkan bir saldırı sonucu ölünce, sıradan bir bakan 60 günlüğüne başkanlık yapar.",
     "poster": "",
-    "imdb": 8.2,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5241,14 +5241,14 @@
     "title": "Law School",
     "description": "Kore'nin en prestijli hukuk fakültesindeki öğrenciler ve öğretmenler bir cinayeti çözmeye çalışıyor.",
     "poster": "",
-    "imdb": 8.1,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5260,14 +5260,14 @@
     "title": "Live Up to Your Name",
     "description": "Zaman yolculuğu yapan bir akupunktur uzmanı, modern Seul'de kendini bulur.",
     "poster": "",
-    "imdb": 8.4,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5279,14 +5279,14 @@
     "title": "The Hymn of Death",
     "description": "1920'lerin Kore’sinde yaşanmış trajik bir aşk hikayesi.",
     "poster": "",
-    "imdb": 7.3,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5298,14 +5298,14 @@
     "title": "Hi Bye, Mama!",
     "description": "Bir annenin ölümden sonra beş gün boyunca hayata dönme şansı.",
     "poster": "",
-    "imdb": 8.9,
-    "tmdb": 9.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "series",
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5324,7 +5324,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5343,7 +5343,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5362,7 +5362,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5381,7 +5381,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5400,7 +5400,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5419,7 +5419,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5438,7 +5438,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5458,7 +5458,7 @@
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5477,7 +5477,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5496,7 +5496,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5515,7 +5515,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5534,7 +5534,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5546,15 +5546,15 @@
     "title": "Gomorrah",
     "description": "Napoli mafyasının iç yüzünü, güç mücadelelerini ve aile dramını anlatan İtalyan suç dizisi.",
     "poster": "https://image.tmdb.org/t/p/original/5qT6riDcHLq2wDjoT74EEMo15ZM.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Italy",
     "type": "",
     "platforms": [
       "Sky Atlantic",
       "HBO Max"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5573,7 +5573,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5592,7 +5592,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5611,7 +5611,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5630,7 +5630,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5649,7 +5649,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5668,7 +5668,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5687,7 +5687,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5706,7 +5706,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5725,7 +5725,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5744,7 +5744,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5763,7 +5763,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5783,7 +5783,7 @@
       "Exxen",
       "GAİN"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5802,7 +5802,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2000,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5821,7 +5821,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5840,7 +5840,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5859,7 +5859,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5878,7 +5878,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5897,7 +5897,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5916,7 +5916,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5936,7 +5936,7 @@
       "GAİN",
       "Exxen"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5955,7 +5955,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5974,7 +5974,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -5993,7 +5993,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6012,7 +6012,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6031,7 +6031,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6050,7 +6050,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6069,7 +6069,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6089,7 +6089,7 @@
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6108,7 +6108,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6127,7 +6127,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6146,7 +6146,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6165,7 +6165,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6184,7 +6184,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2002,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6203,7 +6203,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6222,7 +6222,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6241,7 +6241,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6260,7 +6260,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6279,7 +6279,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6298,7 +6298,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6317,7 +6317,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6336,7 +6336,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6356,7 +6356,7 @@
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6375,7 +6375,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6394,7 +6394,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6413,7 +6413,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6432,7 +6432,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6451,7 +6451,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6463,15 +6463,15 @@
     "title": "The Twilight Saga: Breaking Dawn – Part 1",
     "description": "Bella ve Edward’ın evliliği ve sonrasında yaşanan olaylar hem insanlar hem de doğaüstü varlıklar dünyasında büyük değişikliklere sebep olur.",
     "poster": "https://image.tmdb.org/t/p/original/j9XKiZrVeViAixVRzCta7h1VU9W.jpg",
-    "imdb": 8.5,
-    "tmdb": 8.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "movie",
     "platforms": [
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6490,7 +6490,7 @@
     "platforms": [
       "Max"
     ],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6509,7 +6509,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6528,7 +6528,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6540,15 +6540,15 @@
     "title": "The Wolfman",
     "description": "Victor Frankenstein'ın kardeşi Lawrence Talbot, ailesinin lanetini keşfeder ve korkunç bir kurt adama dönüşür.",
     "poster": "",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "USA",
     "type": "movie",
     "platforms": [
       "HBO Max",
       "Amazon Prime Video"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6567,7 +6567,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6586,7 +6586,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6605,7 +6605,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6624,7 +6624,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6643,7 +6643,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6662,7 +6662,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6681,7 +6681,7 @@
     "platforms": [
       "Apple TV"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6700,7 +6700,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6719,7 +6719,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6738,7 +6738,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6757,7 +6757,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6776,7 +6776,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6795,7 +6795,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6814,7 +6814,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6833,7 +6833,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6852,7 +6852,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6871,7 +6871,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6890,7 +6890,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6909,7 +6909,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6928,7 +6928,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 1994,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6947,7 +6947,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6966,7 +6966,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 1992,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -6985,7 +6985,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7004,7 +7004,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7023,7 +7023,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7042,7 +7042,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7061,7 +7061,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7080,7 +7080,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7099,7 +7099,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7119,7 +7119,7 @@
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7138,7 +7138,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7157,7 +7157,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7176,7 +7176,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7195,7 +7195,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7214,7 +7214,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7234,7 +7234,7 @@
       "TRT",
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7253,7 +7253,7 @@
     "platforms": [
       "Max"
     ],
-    "year": 1992,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7272,7 +7272,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7291,7 +7291,7 @@
     "platforms": [
       "Max"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7310,7 +7310,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7329,7 +7329,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7348,7 +7348,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7367,7 +7367,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7386,7 +7386,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7405,7 +7405,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7424,7 +7424,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7443,7 +7443,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7462,7 +7462,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7481,7 +7481,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7500,7 +7500,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7519,7 +7519,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7538,7 +7538,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7557,7 +7557,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7576,7 +7576,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7595,7 +7595,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7614,7 +7614,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7633,7 +7633,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7652,7 +7652,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7671,7 +7671,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7690,7 +7690,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7709,7 +7709,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7728,7 +7728,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7747,7 +7747,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7766,7 +7766,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7785,7 +7785,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7804,7 +7804,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7823,7 +7823,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7842,7 +7842,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7861,7 +7861,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7880,7 +7880,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7899,7 +7899,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7918,7 +7918,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7937,7 +7937,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7956,7 +7956,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7968,12 +7968,12 @@
     "title": "Locke & Key",
     "description": "Üç kardeşin sihirli anahtarlarla dolu gizemli bir evde yaşadıkları fantastik macera.",
     "poster": "https://www.themoviedb.org/t/p/original/ebzJRhYSw2qODp9qZ1aZqRkG3hO.jpg",
-    "imdb": 7.0,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -7985,12 +7985,12 @@
     "title": "Killing Eve",
     "description": "Bir suikastçi ve onu takıntı haline getiren bir ajanın zekice kurgulanmış kovalamacası.",
     "poster": "https://www.themoviedb.org/t/p/original/6T9Frrx9kKml7gRf3T8MwDCUoZl.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8002,12 +8002,12 @@
     "title": "Periferal",
     "description": "Yakın gelecekte geçen ve sanal gerçeklik ile distopya temalarını işleyen bir bilim kurgu dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/3Pif1qbMldLllhjBUElnET9q43l.jpg",
-    "imdb": 8.2,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8019,12 +8019,12 @@
     "title": "Gannibal",
     "description": "Japonya'nın ücra bir köyünde yaşanan gizemli olayları araştıran bir dedektifin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/aZbPpJmN3K5jQZLb8e5hpR5wOrR.jpg",
-    "imdb": 7.1,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Japonya",
     "type": "",
     "platforms": [],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8036,12 +8036,12 @@
     "title": "Shrinking",
     "description": "Kendi sorunlarıyla uğraşan bir terapistin hastalarına fazla dürüst yaklaşmaya başlaması ile gelişen komik olaylar.",
     "poster": "https://www.themoviedb.org/t/p/original/5gY3iA3VSGOhjZrQ6mnQ4OD2W47.jpg",
-    "imdb": 8.9,
-    "tmdb": 8.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8053,12 +8053,12 @@
     "title": "Silo",
     "description": "Gelecekte, insanlığın yer altında yaşamak zorunda kaldığı distopik bir dünyada geçen gizemli bir dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/znM8i8gOy4nA3zG69t6xEoBQ4uP.jpg",
-    "imdb": 8.6,
-    "tmdb": 8.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8070,12 +8070,12 @@
     "title": "Red Rose",
     "description": "Bir grup gencin gizemli bir uygulama ile başına gelen korkunç olayları konu alan bir İngiliz dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/2zE5MwFQYZBCZrb5gJkTg28DgbA.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8087,12 +8087,12 @@
     "title": "Prisma",
     "description": "İtalyan gençlerinin kimlik, aşk ve büyüme sancılarını işleyen bir gençlik dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/y1M7dH7WnJWJ9f3h76nPVcSml2t.jpg",
-    "imdb": 7.9,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İtalya",
     "type": "",
     "platforms": [],
-    "year": 2002,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8104,12 +8104,12 @@
     "title": "Rap Sh!t",
     "description": "İki arkadaşın hip hop müzik dünyasında yükselme çabalarını konu alan bir komedi dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/8OvhuVbFkL0M9slKQ36FQ3EEwDi.jpg",
-    "imdb": 8.9,
-    "tmdb": 8.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8121,12 +8121,12 @@
     "title": "Extraordinary",
     "description": "Süper güçlerin sıradan olduğu bir dünyada hiçbir gücü olmayan genç bir kadının macerası.",
     "poster": "https://www.themoviedb.org/t/p/original/zS2ekpWdnCLkC8Wb7vHhzN4B3dE.jpg",
-    "imdb": 9.1,
-    "tmdb": 9.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8138,12 +8138,12 @@
     "title": "Somebody Somewhere",
     "description": "Hayatındaki kayıplarla mücadele eden bir kadının kendini ve topluluğunu yeniden bulma hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/bnmKqblPbz6QOMUcfck5Fi5b7Ps.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8155,12 +8155,12 @@
     "title": "Der Schwarm",
     "description": "Dünyanın dört bir yanında denizlerde yaşanan tuhaf olayları araştıran bir bilim insanı ekibinin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/v1CA2g1y5XzTyPtPp6tDPL2CSkP.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Almanya",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8172,12 +8172,12 @@
     "title": "Yakamoz S-245",
     "description": "Bir denizaltı ekibi, dünyada meydana gelen felaket sonrası hayatta kalmaya çalışır.",
     "poster": "https://www.themoviedb.org/t/p/original/xDOolOZNcG2BfHKs9TGYkXQb9Os.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8189,12 +8189,12 @@
     "title": "Clark",
     "description": "Stockholm sendromunun ortaya çıkışına ilham veren ünlü İsveçli suçlu Clark Olofsson'un hayatı.",
     "poster": "https://www.themoviedb.org/t/p/original/fufJrKLMX7p09uGBDZDESeTqmrx.jpg",
-    "imdb": 8.5,
-    "tmdb": 8.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İsveç",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8206,12 +8206,12 @@
     "title": "Pennyworth",
     "description": "Batman’in sadık uşağı Alfred Pennyworth’un gençlik yılları ve maceraları.",
     "poster": "https://www.themoviedb.org/t/p/original/l6wFQR41KRry3Xb1TuSe2tEazv5.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8223,12 +8223,12 @@
     "title": "The Playlist",
     "description": "Spotify’ın ortaya çıkış hikayesini anlatan mini dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/9EqRG3yN4ZSaH1so0cD8AUoR4cE.jpg",
-    "imdb": 6.0,
-    "tmdb": 6.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İsveç",
     "type": "",
     "platforms": [],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8240,12 +8240,12 @@
     "title": "Kral Şakir: Geri Dönüşüm",
     "description": "Kral Şakir ve arkadaşlarının çevreyi kurtarma macerası.",
     "poster": "https://www.themoviedb.org/t/p/original/8bDCyWWEDuJeayQMZT6ZX0hgqJ8.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8257,12 +8257,12 @@
     "title": "The Consultant",
     "description": "Bir şirketin yeni danışmanının gelişiyle çalışanlar arasında korku ve gerilim başlar.",
     "poster": "https://www.themoviedb.org/t/p/original/tdxSgDCn1YlBvAj8KmBRokKOEUz.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8274,12 +8274,12 @@
     "title": "Hayaller ve Hayatlar",
     "description": "Birbirinden farklı dört kadının hayata tutunma ve arkadaşlık hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/6hPzF99OS9XCoB2qdcMjA1dhDFJ.jpg",
-    "imdb": 5.9,
-    "tmdb": 6.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8291,12 +8291,12 @@
     "title": "Wild Abandon (Uysallar)",
     "description": "Bir mimar ve ailesinin toplumsal baskılarla baş etme çabası.",
     "poster": "https://www.themoviedb.org/t/p/original/3O8C3Q8bzoP1uBrM5LKQ36E6I2v.jpg",
-    "imdb": 8.5,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8308,12 +8308,12 @@
     "title": "The Crowded Room",
     "description": "Bir adamın işlediği suçları ve zihnindeki sırları araştıran psikolojik drama.",
     "poster": "https://www.themoviedb.org/t/p/original/9EQr29P9DsM8WvphwKyJdTz5p4R.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8325,12 +8325,12 @@
     "title": "Şahmaran",
     "description": "Mitolojik dokunuşlarla dolu bir aşk ve intikam hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/tUrflkMeR9zQlWYpZH4S2mo5fVn.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2002,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8342,12 +8342,12 @@
     "title": "The Lazarus Project",
     "description": "Dünya yok olmadan önce zamanı geri alma görevinde olan gizli bir organizasyonun hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/bQ6noHBd3uV6Z2vG9EymjQdRRkq.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8359,12 +8359,12 @@
     "title": "Clarkson's Farm",
     "description": "Otomobil sunucusu Jeremy Clarkson’ın bir çiftlikte yaşadıklarını konu alan eğlenceli belgesel dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/jyR7aRQ6R4VwBGU4qN5QMWrC9v3.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8376,12 +8376,12 @@
     "title": "Oussekine",
     "description": "Fransa'da bir öğrencinin ölümünden sonra yaşanan toplumsal hareketleri konu alan mini dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/t5brv47H5npoFrj7bxE6JyuS4tN.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Fransa",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8393,12 +8393,12 @@
     "title": "The New Look",
     "description": "Dior ve Chanel’in İkinci Dünya Savaşı sonrası moda dünyasındaki rekabeti.",
     "poster": "https://www.themoviedb.org/t/p/original/znEL5v7AeyDSNcTcXrfIDxA2M4l.jpg",
-    "imdb": 6.9,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8417,7 +8417,7 @@
     "platforms": [
       "Disney+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8436,7 +8436,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8455,7 +8455,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8474,7 +8474,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8493,7 +8493,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8512,7 +8512,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8531,7 +8531,7 @@
     "platforms": [
       "Amazon Prime Video"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8550,7 +8550,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2004,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8562,15 +8562,15 @@
     "title": "The Twilight Saga: Breaking Dawn – Part 2",
     "description": "Bella'nın vampir olarak yeni hayatı ve kızı Renesmee'nin doğumu, Cullen ailesi ile Volturi arasındaki büyük savaşa zemin hazırlar.",
     "poster": "https://image.tmdb.org/t/p/original/kJQPVT6C7G5O3WkN2bshklkrTwm.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "movie",
     "platforms": [
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8582,12 +8582,12 @@
     "title": "Everything Everywhere All at Once",
     "description": "Bir göçmen kadının, çoklu evrende varoluşunu keşfederken karşılaştığı absürt ve duygusal macera.",
     "poster": "https://www.themoviedb.org/t/p/original/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
-    "imdb": 8.7,
-    "tmdb": 8.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8599,12 +8599,12 @@
     "title": "Triangle of Sadness",
     "description": "Lüks bir yat gezisinde yaşanan trajikomik olaylar, sınıf farklarını ve insan doğasını gözler önüne seriyor.",
     "poster": "https://www.themoviedb.org/t/p/original/kXsMsd57QZG6Lr0uvU8YjyRjK5b.jpg",
-    "imdb": 8.7,
-    "tmdb": 8.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İsveç",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8616,12 +8616,12 @@
     "title": "Air",
     "description": "Nike’ın Michael Jordan’la yaptığı efsanevi anlaşmanın ve Air Jordan markasının doğuşunun gerçek hikayesi.",
     "poster": "https://image.tmdb.org/t/p/original/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8633,12 +8633,12 @@
     "title": "Past Lives",
     "description": "İki çocukluk arkadaşının yıllar sonra tekrar karşılaşması ve geçmişle bugün arasında kalan duygular.",
     "poster": "https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
-    "imdb": 6.4,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD, Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8650,12 +8650,12 @@
     "title": "The Menu",
     "description": "Gizemli bir adada düzenlenen lüks bir akşam yemeği, davetlileri şaşırtıcı bir hayatta kalma mücadelesine sürüklüyor.",
     "poster": "https://www.themoviedb.org/t/p/original/vNfXkPWpYdK0v7x0GkrvTqM1kRv.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8667,12 +8667,12 @@
     "title": "Tár",
     "description": "Ünlü bir orkestra şefinin kariyerindeki yükselişin ve psikolojik gerilimin etkileyici anlatımı.",
     "poster": "https://www.themoviedb.org/t/p/original/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8684,12 +8684,12 @@
     "title": "Nope",
     "description": "Kaliforniya'da bir at çiftliğinde tuhaf olaylar yaşanırken, gökyüzünde gizemli bir varlık ortaya çıkar.",
     "poster": "https://www.themoviedb.org/t/p/original/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8701,12 +8701,12 @@
     "title": "Bones and All",
     "description": "Aşk ve açlık temalı, karanlık bir yol filmi. İki genç, toplum dışına itildikleri bir dünyada kendilerini arar.",
     "poster": "https://www.themoviedb.org/t/p/original/1kPvK5R3jL6fDr1MsFZDJr9qKSG.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8718,12 +8718,12 @@
     "title": "Decision to Leave",
     "description": "Bir dedektif, gizemli bir ölüm vakasını araştırırken baş şüpheliye karşı beklenmedik duygular besler.",
     "poster": "https://www.themoviedb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8735,12 +8735,12 @@
     "title": "Broker",
     "description": "Bir bebek bırakma kutusuyla başlayan yolculuk, farklı hayatları bir araya getirir.",
     "poster": "https://www.themoviedb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
-    "imdb": 5.5,
-    "tmdb": 5.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8752,12 +8752,12 @@
     "title": "The Whale",
     "description": "Yalnız ve kilolu bir adamın kızına yeniden ulaşmaya çalışırken yaşadıkları duygusal mücadele.",
     "poster": "https://www.themoviedb.org/t/p/original/jQ0gylJMxWSL490sy0RrPj1LnZz.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8769,12 +8769,12 @@
     "title": "Elvis",
     "description": "Rock 'n Roll'un efsanesi Elvis Presley'in hayatı ve şöhrete uzanan yolu.",
     "poster": "https://www.themoviedb.org/t/p/original/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
-    "imdb": 9.3,
-    "tmdb": 9.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8786,12 +8786,12 @@
     "title": "Good Luck to You, Leo Grande",
     "description": "Emekli bir öğretmen, hayatında yeni bir macera arayışında bir eskort ile tanışır.",
     "poster": "https://www.themoviedb.org/t/p/original/6L4Jn6qzx9B43flG9VnGp35COhj.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8803,12 +8803,12 @@
     "title": "Close",
     "description": "İki yakın arkadaşın, büyüme ve dostluklarının sınandığı bir dönemden geçişini anlatan dokunaklı bir drama.",
     "poster": "https://www.themoviedb.org/t/p/original/jHHkFeAFAp5hkdTjD1QtzYxdZaY.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Belçika",
     "type": "",
     "platforms": [],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8820,12 +8820,12 @@
     "title": "She Said",
     "description": "Harvey Weinstein skandalını ortaya çıkaran gazetecilerin, adalet mücadelesini konu alıyor.",
     "poster": "https://www.themoviedb.org/t/p/original/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
-    "imdb": 6.9,
-    "tmdb": 6.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8837,12 +8837,12 @@
     "title": "The Banshees of Inisherin",
     "description": "İki eski arkadaşın bir İrlanda adasındaki dramatik ayrılığı, kara mizahla anlatılıyor.",
     "poster": "https://www.themoviedb.org/t/p/original/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İrlanda",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8854,12 +8854,12 @@
     "title": "The Fabelmans",
     "description": "Steven Spielberg’in yarı otobiyografik aile ve büyüme öyküsü.",
     "poster": "https://www.themoviedb.org/t/p/original/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg",
-    "imdb": 7.1,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8871,12 +8871,12 @@
     "title": "All Quiet on the Western Front",
     "description": "Birinci Dünya Savaşı'nın dehşetini bir Alman askerinin gözünden anlatan güçlü bir anti-savaş filmi.",
     "poster": "https://www.themoviedb.org/t/p/original/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Almanya",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8888,12 +8888,12 @@
     "title": "Argentina, 1985",
     "description": "Arjantin’in askeri diktatörlük sonrası yargı sürecini konu alan tarihi bir drama.",
     "poster": "https://www.themoviedb.org/t/p/original/6Jjl2sUqRZyCFuZeUDIhqTlfFwl.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Arjantin",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8905,12 +8905,12 @@
     "title": "Glass Onion: A Knives Out Mystery",
     "description": "Dedektif Benoit Blanc’ın yeni bir gizemi çözmek için Yunanistan’a gidişi.",
     "poster": "https://www.themoviedb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
-    "imdb": 7.8,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8922,12 +8922,12 @@
     "title": "The Wonder",
     "description": "İrlanda’da bir mucizeyi araştıran hemşirenin, kasabanın sırlarıyla yüzleşmesini konu alıyor.",
     "poster": "https://www.themoviedb.org/t/p/original/5TTMb7wDVWTRXco29hoFMoEMaLX.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İrlanda",
     "type": "",
     "platforms": [],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8939,12 +8939,12 @@
     "title": "White Noise",
     "description": "Bir Amerikan ailesinin, kimyasal bir felaket sonrası hayatta kalma mücadelesi ve absürd mizahı.",
     "poster": "https://www.themoviedb.org/t/p/original/ohBaxalR5vQVa3Z5hfmj6zQCA3B.jpg",
-    "imdb": 6.8,
-    "tmdb": 6.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8956,12 +8956,12 @@
     "title": "Bardo, False Chronicle of a Handful of Truths",
     "description": "Bir gazetecinin, kimlik ve gerçeklik arayışındaki sürreal yolculuğu.",
     "poster": "https://www.themoviedb.org/t/p/original/sy08o6BdYBzQfFOLdkeLThRSRzY.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Meksika",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8973,12 +8973,12 @@
     "title": "Wendell & Wild",
     "description": "İki iblisin, bir genç kızı manipüle ederek hayaletlerin dünyasına götürmeye çalıştığı animasyon film.",
     "poster": "https://www.themoviedb.org/t/p/original/xcXALgm9sUebw8TNDeph0lRizYb.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -8990,12 +8990,12 @@
     "title": "Athena",
     "description": "Paris’teki bir banliyöde geçen isyan ve toplumsal gerilimin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/4oP42IQyPjw2HgCkB2m5GPV5gUu.jpg",
-    "imdb": 6.4,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Fransa",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9007,12 +9007,12 @@
     "title": "Lady Chatterley's Lover",
     "description": "Toplumsal normlara başkaldıran bir aşk hikayesi. D. H. Lawrence’ın romanından uyarlama.",
     "poster": "https://www.themoviedb.org/t/p/original/6r5hjH9GQvLksua5FgaFbyP3VqC.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9024,12 +9024,12 @@
     "title": "Emily the Criminal",
     "description": "Borç batağındaki Emily, bir suç örgütünün içine sürüklenir ve yeni bir hayata başlar.",
     "poster": "https://www.themoviedb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
-    "imdb": 5.1,
-    "tmdb": 5.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9041,12 +9041,12 @@
     "title": "Blonde",
     "description": "Marilyn Monroe'nun hayatına farklı ve tartışmalı bir bakış.",
     "poster": "https://www.themoviedb.org/t/p/original/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9058,12 +9058,12 @@
     "title": "Hustle",
     "description": "Bir basketbol yetenek avcısı, NBA'e yeni bir yıldız kazandırmak için tüm riskleri göze alır.",
     "poster": "https://www.themoviedb.org/t/p/original/46FHJdxjAiwxwJN2m0wl9xek7xk.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9082,7 +9082,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9101,7 +9101,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9120,7 +9120,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9139,7 +9139,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9158,7 +9158,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9177,7 +9177,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9196,7 +9196,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9215,7 +9215,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9234,7 +9234,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9253,7 +9253,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9272,7 +9272,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9291,7 +9291,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9310,7 +9310,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9329,7 +9329,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9348,7 +9348,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9367,7 +9367,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2002,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9386,7 +9386,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9398,12 +9398,12 @@
     "title": "Yargı",
     "description": "Bir cinayet davası etrafında dönen ve iki hukukçunun hayatını altüst eden sürükleyici Türk dizisi.",
     "poster": "https://image.tmdb.org/t/p/original/7D8pr8jv47hr7ohZJsQwWc9hTq6.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9415,12 +9415,12 @@
     "title": "Black Bird",
     "description": "Cezasını hafifletmek için tehlikeli bir suçludan itiraf almaya çalışan mahkumun hikayesi.",
     "poster": "https://image.tmdb.org/t/p/original/7K4UPc0vqxFIMQqgQr3ptLQO2Q2.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9432,12 +9432,12 @@
     "title": "Kin",
     "description": "İrlanda'da suç dünyası ve aile bağlarının iç içe geçtiği, etkileyici bir suç draması.",
     "poster": "https://image.tmdb.org/t/p/original/7NQBkbiq2PYtQw8hbcY2pEkE1az.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İrlanda",
     "type": "",
     "platforms": [],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9449,12 +9449,12 @@
     "title": "Paramparça",
     "description": "Hayatları bir hata sonucu değişen iki ailenin dram ve entrika dolu öyküsü.",
     "poster": "https://image.tmdb.org/t/p/original/fj2Yf6TwVIXPglw9a4WKmoybB4q.jpg",
-    "imdb": 8.4,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9466,12 +9466,12 @@
     "title": "Boys Over Flowers",
     "description": "Kore'nin efsaneleşmiş gençlik dizisi; sıradan bir kız ve zengin gençlerin aşkı, dostluğu.",
     "poster": "https://image.tmdb.org/t/p/original/5Q6cv1c7SwSW9zvqHpRsmR8r0Gr.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9483,12 +9483,12 @@
     "title": "As If",
     "description": "Londra’da yaşayan bir grup gencin karmaşık ve enerjik hayatlarını konu alan popüler İngiliz dizisi.",
     "poster": "https://image.tmdb.org/t/p/original/jVIR1Em1nMMB5nCUWnxVdRJ8ks9.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 1994,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9500,12 +9500,12 @@
     "title": "Yellowjackets",
     "description": "Bir lise kadın futbol takımının hayatta kalma mücadelesiyle geçmişin sırlarının harmanlandığı psikolojik gerilim.",
     "poster": "https://image.tmdb.org/t/p/original/s9D4t13wCDH5gQHATBtyUQptznF.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9517,12 +9517,12 @@
     "title": "Barry",
     "description": "Kirli işlerden bıkmış bir tetikçinin, oyuncu olmaya karar vermesiyle değişen absürt yaşamı.",
     "poster": "https://image.tmdb.org/t/p/original/yv1rqWxR2R09iPu7t7BKmELKzvS.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9534,12 +9534,12 @@
     "title": "La Brea",
     "description": "Los Angeles’ta dev bir çukur açılmasıyla ailelerin tarih öncesi dünyaya sürüklendiği bilim kurgu ve aksiyon dizisi.",
     "poster": "https://image.tmdb.org/t/p/original/d0HCAj9oXp3FuHjmvZzZLx7DJwO.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9551,12 +9551,12 @@
     "title": "Sıcak Kafa",
     "description": "Dilin bulaşıcı bir hastalık haline geldiği yakın gelecekte, hayatta kalmaya çalışan bir dilbilimcinin hikayesi.",
     "poster": "https://image.tmdb.org/t/p/original/pYVVaL0ms9axzPrAxRPQu3IGgnJ.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 1996,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9568,12 +9568,12 @@
     "title": "The Law According to Lidia Poët",
     "description": "İtalya’nın ilk kadın avukatı Lidia Poët’in gerçek hikayesinden uyarlanan hukuk draması.",
     "poster": "https://image.tmdb.org/t/p/original/8jM5zJjVAtGb2HlsSwWYFOQ0Qpn.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İtalya",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9585,12 +9585,12 @@
     "title": "Modern Love",
     "description": "Aşkın, ilişkilerin ve insan bağlarının farklı yönlerini anlatan kısa hikayelerden oluşan bir dizi.",
     "poster": "https://image.tmdb.org/t/p/original/6SBLqgKUlB1K7yfxIC1FvQHk6pU.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9602,12 +9602,12 @@
     "title": "Fargo",
     "description": "Kuzey Amerika’da işlenen bir dizi suçun ve absürd karakterlerin karanlık hikayeleri.",
     "poster": "https://image.tmdb.org/t/p/original/7cckb1C5qGQjIrT4h8I3n6vKqP5.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9626,7 +9626,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9638,12 +9638,12 @@
     "title": "The Father",
     "description": "Yaşlı bir adamın, ilerleyen demans hastalığıyla verdiği duygusal ve dramatik mücadele.",
     "poster": "https://www.themoviedb.org/t/p/original/dDkZxk2rZa9EMs9r7gvZs5I5fNH.jpg",
-    "imdb": 7.9,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9655,12 +9655,12 @@
     "title": "Nomadland",
     "description": "Ekonomik kriz sonrası, Amerika'nın batısında karavanla yaşayan insanların yolculuğu.",
     "poster": "https://www.themoviedb.org/t/p/original/66kO0OQjPiF3E6B5Cq1DJJZG65F.jpg",
-    "imdb": 7.1,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9672,12 +9672,12 @@
     "title": "Promising Young Woman",
     "description": "Travma yaşayan genç bir kadının adalet arayışı ve intikam hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/aW0C0R1RWG0K8xvMiPHx47vIbYp.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1996,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9689,12 +9689,12 @@
     "title": "Minari",
     "description": "1980’lerde Arkansas’a göç eden bir Koreli ailenin Amerikan rüyasını arayışı.",
     "poster": "https://www.themoviedb.org/t/p/original/uMwQI5eQfL6oKj5Ul1O5lN6mfcw.jpg",
-    "imdb": 7.9,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9706,12 +9706,12 @@
     "title": "Another Round",
     "description": "Dört öğretmenin, hayatlarına heyecan katmak için alkolün sınırlarını test ettikleri kara mizah.",
     "poster": "https://www.themoviedb.org/t/p/original/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Danimarka",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9723,12 +9723,12 @@
     "title": "The Trial of the Chicago 7",
     "description": "1968 ABD'deki meşhur protestolar ve siyasi davayı konu alan bir mahkeme draması.",
     "poster": "https://www.themoviedb.org/t/p/original/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
-    "imdb": 8.2,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9740,12 +9740,12 @@
     "title": "Judas and the Black Messiah",
     "description": "FBI muhbiri William O’Neal’ın, Kara Panterler lideri Fred Hampton’a karşı verdiği ihanetin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/iIgr75GoqF3QyIedkXJNdC2eRjO.jpg",
-    "imdb": 6.1,
-    "tmdb": 6.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9757,12 +9757,12 @@
     "title": "The Mitchells vs. The Machines",
     "description": "Bir ailenin, robot kıyametini engellemeye çalıştığı eğlenceli bir animasyon-macera.",
     "poster": "https://www.themoviedb.org/t/p/original/mI2JrGy3kPjFjH8DQvO39iE2leF.jpg",
-    "imdb": 8.9,
-    "tmdb": 8.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9774,12 +9774,12 @@
     "title": "The French Dispatch",
     "description": "20. yüzyıl Fransız kasabasında geçen, renkli ve absürt bir dergi hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/kEw3Y0QVIQk0zxW5MdFvZTvuLAD.jpg",
-    "imdb": 6.1,
-    "tmdb": 5.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9791,12 +9791,12 @@
     "title": "The Lost Daughter",
     "description": "Yunanistan’da tatil yapan bir kadının geçmişteki annelik travmasıyla yüzleşmesi.",
     "poster": "https://www.themoviedb.org/t/p/original/tP4vQqE08LTFVnxC557K9W2I1mS.jpg",
-    "imdb": 8.0,
-    "tmdb": 7.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9808,12 +9808,12 @@
     "title": "Dune: Part One",
     "description": "Çöl gezegeni Arrakis’te geçen, bir ailenin hayatta kalma ve iktidar savaşı.",
     "poster": "https://www.themoviedb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9825,12 +9825,12 @@
     "title": "Spencer",
     "description": "Prenses Diana’nın, bir Noel tatilinde yaşadığı psikolojik zorluklar ve özgürlük arayışı.",
     "poster": "https://www.themoviedb.org/t/p/original/7Cm9qGSScZOzqkpaWi5lXgllvRZ.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2001,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9842,12 +9842,12 @@
     "title": "The Power of the Dog",
     "description": "1920’lerde Montana’da geçen, iki erkek kardeşin arasındaki gizli rekabet ve psikolojik gerilim.",
     "poster": "https://www.themoviedb.org/t/p/original/kEyT20B5CRUMhOWl08pHZXhSeWb.jpg",
-    "imdb": 8.2,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Yeni Zelanda",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9859,12 +9859,12 @@
     "title": "Drive My Car",
     "description": "Bir tiyatro yönetmeninin, karısının ölümünden sonra kendini ve geçmişini keşfetme yolculuğu.",
     "poster": "https://www.themoviedb.org/t/p/original/rnEznLJvYp1vV4qMrr88eXXaI2S.jpg",
-    "imdb": 6.1,
-    "tmdb": 6.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Japonya",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9876,12 +9876,12 @@
     "title": "West Side Story",
     "description": "Steven Spielberg’in yönettiği, New York'taki iki rakip çetenin müzikali.",
     "poster": "https://www.themoviedb.org/t/p/original/6tbCnFqklH4WnnN2bKfqwomKQKH.jpg",
-    "imdb": 8.3,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9893,12 +9893,12 @@
     "title": "Nightmare Alley",
     "description": "Bir dolandırıcının, karanlık sirkte başladığı tehlikeli yükselişin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJtws.jpg",
-    "imdb": 8.7,
-    "tmdb": 8.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2004,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9910,12 +9910,12 @@
     "title": "King Richard",
     "description": "Serena ve Venus Williams’ın tenis yıldızlarına dönüşmesinde babalarının rolü.",
     "poster": "https://www.themoviedb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
-    "imdb": 8.1,
-    "tmdb": 7.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9927,12 +9927,12 @@
     "title": "Encanto",
     "description": "Kolombiya’da sihirli güçlere sahip bir ailenin en ‘normal’ üyesinin kendini keşfetmesi.",
     "poster": "https://www.themoviedb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
-    "imdb": 6.6,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9944,12 +9944,12 @@
     "title": "Tick, Tick... Boom!",
     "description": "Bir müzikal bestecisinin, otuz yaşına gelmeden başarmak istediği hayalleri ve mücadeleleri.",
     "poster": "https://www.themoviedb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1996,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9961,12 +9961,12 @@
     "title": "Don't Look Up",
     "description": "Dünyaya çarpmak üzere olan bir kuyruklu yıldızı anlatmak isteyen iki bilim insanı, medya ve siyasetle mücadele ediyor.",
     "poster": "https://www.themoviedb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
-    "imdb": 7.2,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9978,12 +9978,12 @@
     "title": "The Hand of God",
     "description": "1980’ler Napoli’sinde, genç bir adamın büyüme ve kayıp hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/kpYdpzF7PkK4mvYNScEMw2ejd9R.jpg",
-    "imdb": 8.7,
-    "tmdb": 8.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İtalya",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -9995,12 +9995,12 @@
     "title": "Luca",
     "description": "İki deniz canavarının, insan kılığına girip İtalya'da bir yaz macerası yaşaması.",
     "poster": "https://www.themoviedb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg",
-    "imdb": 7.9,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10012,12 +10012,12 @@
     "title": "Cruella",
     "description": "Disney’in klasik kötüsü Cruella de Vil’in gençlik yıllarına eğlenceli bir bakış.",
     "poster": "https://www.themoviedb.org/t/p/original/A0knvX7rlwTyZSKj8H5NiARb45.jpg",
-    "imdb": 6.4,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10029,12 +10029,12 @@
     "title": "House of Gucci",
     "description": "Gucci moda imparatorluğunda yaşanan ihanet, entrika ve cinayet skandalı.",
     "poster": "https://www.themoviedb.org/t/p/original/9CpCrR1xmU4Hb2ZrEybz9MJ9qdP.jpg",
-    "imdb": 6.8,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10046,12 +10046,12 @@
     "title": "C'mon C'mon",
     "description": "Bir radyo yapımcısı, genç yeğeniyle çıktığı ABD yolculuğunda hayatın anlamını yeniden keşfeder.",
     "poster": "https://www.themoviedb.org/t/p/original/gHeFkj8sY2IqwC4uaW9ClvukgQ1.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10063,12 +10063,12 @@
     "title": "Mass",
     "description": "İki aile, yıllar sonra bir araya gelerek trajik bir okul saldırısını konuşur.",
     "poster": "https://www.themoviedb.org/t/p/original/9A1rBv9V4b1cAdM0nd7g8kHtUUZ.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10080,12 +10080,12 @@
     "title": "Flee",
     "description": "Afganistan’dan Danimarka’ya kaçan bir mültecinin, animasyonla anlatılan gerçek hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/5gPPx0yQ6FjnjZM9Uix3C6t5mmB.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Danimarka",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10097,12 +10097,12 @@
     "title": "Belfast",
     "description": "1960’ların Kuzey İrlanda’sında, bir ailenin çocuklarının gözünden aktarılan büyüme hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/kFCGLV5cC1AoaZBRzUxKJ9clqL0.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Birleşik Krallık",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10121,7 +10121,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10140,7 +10140,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10159,7 +10159,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10178,7 +10178,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10197,7 +10197,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10216,7 +10216,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10235,7 +10235,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10254,7 +10254,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10273,7 +10273,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10292,7 +10292,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10311,7 +10311,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10330,7 +10330,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10349,7 +10349,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10368,7 +10368,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10387,7 +10387,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10406,7 +10406,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10418,12 +10418,12 @@
     "title": "Babylon",
     "description": "1920’lerin Hollywood’unda geçen, şöhretin ve çöküşün hikayesini anlatan dramatik bir film.",
     "poster": "https://www.themoviedb.org/t/p/original/7Hv7F1t2fGzDiz1gGsG0v5QLEHh.jpg",
-    "imdb": 6.9,
-    "tmdb": 6.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10435,12 +10435,12 @@
     "title": "Bodies",
     "description": "Dört farklı zamanda geçen polisiye bir Netflix dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10452,12 +10452,12 @@
     "title": "Fall",
     "description": "İki arkadaşın yüksek bir kuleye tırmanışında başlarına gelen korku dolu olaylar.",
     "poster": "https://www.themoviedb.org/t/p/original/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
-    "imdb": 6.9,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10469,12 +10469,12 @@
     "title": "Renfield",
     "description": "Drakula'nın yardımcısı Renfield’in absürt ve eğlenceli hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
-    "imdb": 9.3,
-    "tmdb": 9.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2000,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10486,12 +10486,12 @@
     "title": "Jung_E",
     "description": "Yapay zekanın gelecekteki savaşlar için kullanıldığı, Kore yapımı bir bilim kurgu.",
     "poster": "https://www.themoviedb.org/t/p/original/6ZT9g6C4oXvOQj7Xk2A5yoK0p1F.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10503,12 +10503,12 @@
     "title": "Lockwood & Co.",
     "description": "Genç dedektiflerin, doğaüstü olayları çözmeye çalıştığı İngiliz yapımı bir dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/9j4wUPM5yHZ6J1Xdp8eKiFdssrY.jpg",
-    "imdb": 9.4,
-    "tmdb": 9.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10520,12 +10520,12 @@
     "title": "The Rig",
     "description": "Bir petrol platformunda çalışan ekibin yaşadığı doğaüstü olaylar.",
     "poster": "https://www.themoviedb.org/t/p/original/zRU5Ao5mjgRbGODDEW1jvD42ghV.jpg",
-    "imdb": 6.4,
-    "tmdb": 6.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2004,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10537,12 +10537,12 @@
     "title": "XO, Kitty",
     "description": "Genç bir kızın Seul’de aşkı ve kimliğini bulma yolculuğu.",
     "poster": "https://www.themoviedb.org/t/p/original/9vKRJ5f2yQ6SY3OjI3oAj1Arh8U.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD, Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10554,12 +10554,12 @@
     "title": "A Man Called Otto",
     "description": "Huysuz bir adamın yeni komşularıyla değişen hayatı.",
     "poster": "https://www.themoviedb.org/t/p/original/5y1E5QkaqGi2Fz6Djs4NnwEoX1U.jpg",
-    "imdb": 8.5,
-    "tmdb": 8.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2000,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10571,12 +10571,12 @@
     "title": "The Last of Us",
     "description": "Kıyamet sonrası bir dünyada, hayatta kalmaya çalışan Joel ve Ellie'nin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10588,12 +10588,12 @@
     "title": "The Pale Blue Eye",
     "description": "1830'larda, gizemli bir cinayeti araştıran eski bir dedektifin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/9cqdvQmCWlWqvBKssbAXly4e0TK.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10605,12 +10605,12 @@
     "title": "Blue Beetle",
     "description": "Süper güçlere sahip bir genç, ailesini ve dünyayı korumak için savaşır.",
     "poster": "https://www.themoviedb.org/t/p/original/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10622,12 +10622,12 @@
     "title": "Foundation",
     "description": "İmparatorluğun çöküşünü önlemeye çalışan bir grup bilim insanının epik hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/fjRkQ1Qw8pWAfUKG78kbL2ehjA8.jpg",
-    "imdb": 8.9,
-    "tmdb": 8.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10639,15 +10639,15 @@
     "title": "Twilight",
     "description": "Bella Swan'ın yeni taşındığı kasabada gizemli bir vampir olan Edward Cullen ile tanışmasını ve aralarındaki tutkulu, tehlikeli aşkı konu alan fantastik bir film.",
     "poster": "https://image.tmdb.org/t/p/original/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "movie",
     "platforms": [
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10659,12 +10659,12 @@
     "title": "The Old Guard",
     "description": "Ölümsüz paralı askerlerden oluşan bir ekibin, kimliklerini gizleyerek insanlığı koruma mücadelesi.",
     "poster": "https://image.tmdb.org/t/p/w1280/eUhHJCF3qZB0XCu2zXXYLxrnH4F.jpg",
-    "imdb": 6.8,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10676,12 +10676,12 @@
     "title": "Physical",
     "description": "1980’lerin aerobik çılgınlığında kendi işini kurmaya çalışan bir kadının hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/hfH8uCq4KJt7JznA9GMMQk6jbEX.jpg",
-    "imdb": 6.2,
-    "tmdb": 6.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10693,12 +10693,12 @@
     "title": "The Peripheral",
     "description": "Yakın gelecekte geçen, sanal gerçeklikle bağlantılı gizemli olaylar.",
     "poster": "https://www.themoviedb.org/t/p/original/ccBe5BVeibdBEQU7l6P6BubajWV.jpg",
-    "imdb": 8.0,
-    "tmdb": 8.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10710,12 +10710,12 @@
     "title": "Slow Horses",
     "description": "İngiliz istihbaratında gözden düşmüş ajanların sürgün edildiği birimde geçen suç dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/y3rJ3N8lA2DCeLFSix4xU0JzD8O.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10727,12 +10727,12 @@
     "title": "Class",
     "description": "Delhi'de bir özel okula bursla gelen üç öğrencinin yaşadığı sınıfsal çatışmalar.",
     "poster": "https://www.themoviedb.org/t/p/original/4psYdLsaXXiV2Q1L2qv3g0HHGRK.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Hindistan",
     "type": "",
     "platforms": [],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10751,7 +10751,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10770,7 +10770,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10789,7 +10789,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10808,7 +10808,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10827,7 +10827,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10846,7 +10846,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10865,7 +10865,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10884,7 +10884,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10903,7 +10903,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10922,7 +10922,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10941,7 +10941,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10960,7 +10960,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10979,7 +10979,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2002,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -10998,7 +10998,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11017,7 +11017,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11036,7 +11036,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11055,7 +11055,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11074,7 +11074,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11086,15 +11086,15 @@
     "title": "Harry Potter and the Prisoner of Azkaban",
     "description": "Harry, kaçak Azkaban mahkumu Sirius Black'in peşine düştüğü karanlık sırlarla yüzleşir.",
     "poster": "",
-    "imdb": 9.1,
-    "tmdb": 9.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "USA",
     "type": "movie",
     "platforms": [
       "HBO Max",
       "Peacock"
     ],
-    "year": 1997,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11106,12 +11106,12 @@
     "title": "FUBAR",
     "description": "Emekli CIA ajanı, kızının da gizli bir ajan olduğunu öğrenir ve baba-kız arasında komik ve aksiyon dolu olaylar yaşanır.",
     "poster": "https://www.themoviedb.org/t/p/original/g8osOQyyA3Y4UkdSl2JW5xrXK66.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11123,12 +11123,12 @@
     "title": "Hijack",
     "description": "Bir uçağın kaçırılması sonrası yaşanan gerilimi anlatan, sürükleyici bir Apple TV dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/kQZtF7DKj1eYv1W2ABo7rRPlpfV.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11140,12 +11140,12 @@
     "title": "Daisy Jones & The Six",
     "description": "1970’lerin efsanevi bir rock grubunun yükselişi ve çöküşünü anlatan dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/pNE3PWcOJiyhHZFZr9GfNiN7tW6.jpg",
-    "imdb": 7.8,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11157,12 +11157,12 @@
     "title": "Platonic",
     "description": "Yıllar sonra yeniden bir araya gelen eski arkadaşların karmaşık ilişkilerini konu alan bir komedi dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/b7k6Ax0R1ElIm8dR2Rkm3HvTW5C.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11174,12 +11174,12 @@
     "title": "Class of '09",
     "description": "FBI ajanlarının geçmişten günümüze yaşadığı olayları ve teknolojinin yükselişini konu alan bir dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/mb2xupETnx4fnFCyOYEmQk5ptgG.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11191,12 +11191,12 @@
     "title": "The Swarm",
     "description": "Okyanuslarda başlayan doğaüstü olayların tüm insanlığı tehdit etmesini konu alan Alman yapımı bir dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/f0JnJVo9hwzZaswKMGp4hR6xFzM.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Almanya",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11208,12 +11208,12 @@
     "title": "Gen V",
     "description": "The Boys evreninde geçen ve genç süper kahramanların eğitim gördüğü bir akademiyi konu alan dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/cWczNud8Y8i8hSMnQfqg4VYY6EY.jpg",
-    "imdb": 7.8,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11225,12 +11225,12 @@
     "title": "Poker Face",
     "description": "Bir kadının, yalanları kolayca tespit etme yeteneğiyle her bölümde yeni bir gizemi çözdüğü suç dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/epNFXjmUqM3BXpOY4uE14oVrfZe.jpg",
-    "imdb": 7.1,
-    "tmdb": 6.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11242,12 +11242,12 @@
     "title": "The White Lotus",
     "description": "Bir tatil beldesinde geçen kara mizah dizisi, zengin konukların ve personelin sırlarını açığa çıkarıyor.",
     "poster": "https://www.themoviedb.org/t/p/original/qVtWfdIj4tpA9vwctXbzGZl78KH.jpg",
-    "imdb": 6.6,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11259,12 +11259,12 @@
     "title": "The Good Mothers",
     "description": "İtalya'da mafyaya karşı mücadele eden üç kadının gerçek hikayesini anlatan dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/66rRVi6HLxZ7TQ9f3fKxn0Ejqhi.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İtalya",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11276,12 +11276,12 @@
     "title": "Rabbit Hole",
     "description": "Bir teknoloji danışmanının yanlış bir komplonun içine düşmesiyle gelişen olayları konu alan gerilim dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/tqL6zH6TkBqNRZkgpFA6s4p3NwB.jpg",
-    "imdb": 7.0,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11293,12 +11293,12 @@
     "title": "A Small Light",
     "description": "Anne Frank’ın ailesini saklayan Miep Gies’in gerçek hikayesini anlatan mini dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/qn9MrPGVigPH2QnK7SNgQmBGY4K.jpg",
-    "imdb": 8.4,
-    "tmdb": 8.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11310,12 +11310,12 @@
     "title": "The Power",
     "description": "Genç kadınların elektrik gücüne sahip olmasıyla dünyadaki dengelerin değiştiği bir Amazon Prime Video dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/fL5jXp6I5FtkQxQ3b3BQbm8OL4W.jpg",
-    "imdb": 6.6,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11327,12 +11327,12 @@
     "title": "Dear Edward",
     "description": "Bir uçak kazasından kurtulan tek kişi olan çocuğun hayatındaki dramı anlatan Apple TV dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/j0aPG4IMr8ImR3QoLOavWcg4vAv.jpg",
-    "imdb": 7.7,
-    "tmdb": 7.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11344,12 +11344,12 @@
     "title": "The Diplomat",
     "description": "Londra’daki ABD büyükelçisinin politik entrikalarla dolu hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/s0G1YqjFHElfOwDT6tCevxvY92g.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11361,12 +11361,12 @@
     "title": "The Makanai: Cooking for the Maiko House",
     "description": "Kyoto’da geleneksel bir maiko evinde yemek pişiren genç kızın sıcak hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/ptp1xQer93KfXnBG6rMbtkdUAt6.jpg",
-    "imdb": 7.4,
-    "tmdb": 7.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Japonya",
     "type": "",
     "platforms": [],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11378,12 +11378,12 @@
     "title": "Love & Death",
     "description": "Gerçek bir hikayeden uyarlanan, Amerika’daki bir aşk ve cinayet vakasını konu alan mini dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/sCbZnXQlSEnrxrME6kMtsYhrFnb.jpg",
-    "imdb": 9.0,
-    "tmdb": 9.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 1998,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11395,12 +11395,12 @@
     "title": "Heartstopper",
     "description": "İki lise öğrencisinin arkadaşlıktan aşka dönüşen samimi ilişkisini konu alan bir İngiliz dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/olNX2fGd6Ba55mT2ZbzdgKfQD8j.jpg",
-    "imdb": 8.5,
-    "tmdb": 8.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11412,12 +11412,12 @@
     "title": "The English",
     "description": "İngiliz aristokratı bir kadının, 1890’larda Amerikan batısında intikam için çıktığı yolculuk.",
     "poster": "https://www.themoviedb.org/t/p/original/hkV90Ch5c9VUfueMQ5uFtrpN8w2.jpg",
-    "imdb": 6.2,
-    "tmdb": 6.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11436,7 +11436,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11455,7 +11455,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2001,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11474,7 +11474,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11493,7 +11493,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1996,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11512,7 +11512,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11531,7 +11531,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11550,7 +11550,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11569,7 +11569,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11588,7 +11588,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11607,7 +11607,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11626,7 +11626,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11645,7 +11645,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11664,7 +11664,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11683,7 +11683,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11702,7 +11702,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11722,7 +11722,7 @@
       "Netflix",
       "HBO Max"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11741,7 +11741,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11760,7 +11760,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11779,7 +11779,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11798,7 +11798,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11817,7 +11817,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11836,7 +11836,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11855,7 +11855,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11874,7 +11874,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11893,7 +11893,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11912,7 +11912,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11931,7 +11931,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11950,7 +11950,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11969,7 +11969,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -11988,7 +11988,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12007,7 +12007,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2001,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12026,7 +12026,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12045,7 +12045,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12064,7 +12064,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12083,7 +12083,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12102,7 +12102,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12121,7 +12121,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12141,7 +12141,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12161,7 +12161,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12181,7 +12181,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2004,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12201,7 +12201,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12221,7 +12221,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12241,7 +12241,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 1991,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12261,7 +12261,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12281,7 +12281,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12301,7 +12301,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12321,7 +12321,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12341,7 +12341,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12361,7 +12361,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12381,7 +12381,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12401,7 +12401,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12421,7 +12421,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12440,7 +12440,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12459,7 +12459,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12478,7 +12478,7 @@
     "platforms": [
       "Exxen"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12498,7 +12498,7 @@
       "BluTV",
       "Max"
     ],
-    "year": 2001,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12517,7 +12517,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12536,7 +12536,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12555,7 +12555,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12574,7 +12574,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12593,7 +12593,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12612,7 +12612,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12631,7 +12631,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12650,7 +12650,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12669,7 +12669,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12688,7 +12688,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12707,7 +12707,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12726,7 +12726,7 @@
     "platforms": [
       "MUBI"
     ],
-    "year": 2000,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12745,7 +12745,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12764,7 +12764,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12783,7 +12783,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12802,7 +12802,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12821,7 +12821,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12840,7 +12840,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12852,12 +12852,12 @@
     "title": "WeCrashed",
     "description": "WeWork'un yükselişi ve çöküşü ile kurucularının sıra dışı hikayesini anlatan bir Apple TV dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/bOhe7Gm9kkZgqKUXCQOGt5m7aL8.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12869,15 +12869,15 @@
     "title": "The Twilight Saga: New Moon",
     "description": "Edward Cullen'ın Bella'yı korumak için Forks'tan ayrılması sonrası Bella'nın yaşadığı boşluk, Jacob Black ile yakınlaşmasına sebep olur.",
     "poster": "https://image.tmdb.org/t/p/original/3T1bwbKvcjV7C8RkWkK7iVOXhC4.jpg",
-    "imdb": 9.6,
-    "tmdb": 9.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "movie",
     "platforms": [
       "Netflix",
       "Amazon Prime Video"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12889,12 +12889,12 @@
     "title": "Shining Girls",
     "description": "Bir seri katilin saldırısından kurtulan kadının, geçmişin değişken gerçekliğiyle mücadelesini anlatan bir Apple TV dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/pt6O9V4aPGL7vnKaS6XrwWXrMD6.jpg",
-    "imdb": 7.0,
-    "tmdb": 6.9,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12906,12 +12906,12 @@
     "title": "Station Eleven",
     "description": "Küresel bir pandemiden sonra hayatta kalanların hikayesini anlatan post-apokaliptik drama.",
     "poster": "https://www.themoviedb.org/t/p/original/6sQbT4HMeH13OJFD2Y3kA4z8cZB.jpg",
-    "imdb": 7.1,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12923,12 +12923,12 @@
     "title": "Tokyo Vice",
     "description": "1990’ların Tokyo’sunda, Yakuza dünyasını araştıran Amerikalı bir gazetecinin gerçek hayat hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/3IlEG3A7B1czM9Y7N4OCcRgx7ev.jpg",
-    "imdb": 7.3,
-    "tmdb": 7.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD, Japonya",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12940,12 +12940,12 @@
     "title": "The Patient",
     "description": "Bir psikiyatrist ve onu kaçıran hastası arasında geçen psikolojik gerilim dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/vA6XcexOxd2QCR49A3IGK7qqcwl.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12957,12 +12957,12 @@
     "title": "The Old Man",
     "description": "Emekli bir CIA ajanının geçmişiyle yüzleştiği, Jeff Bridges'ın başrolünde olduğu aksiyon dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/kP8kFMyT9u4zQNnFZTyt1aWz9Yu.jpg",
-    "imdb": 7.0,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12974,12 +12974,12 @@
     "title": "The Last Thing He Told Me",
     "description": "Gizemli bir şekilde kaybolan kocasının ardından onun ardında bıraktığı sırları çözmeye çalışan bir kadının hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/feG3GzA4ZHEbzuXlfrroIHlwWeu.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -12991,12 +12991,12 @@
     "title": "Pachinko",
     "description": "Koreli bir ailenin dört kuşak boyunca Japonya ve Amerika'da verdiği hayatta kalma mücadelesini anlatan destansı dizi.",
     "poster": "https://www.themoviedb.org/t/p/original/1kuT1e7ZK6rWqGyqQjio0uXM2pE.jpg",
-    "imdb": 6.3,
-    "tmdb": 6.2,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD, Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13008,12 +13008,12 @@
     "title": "Class of '07",
     "description": "Kadınlardan oluşan bir lise mezunlar grubu, felaket sonrası adada mahsur kalınca hayatta kalma mücadelesi verir.",
     "poster": "https://www.themoviedb.org/t/p/original/1Q8p4Y5Xg7SCU6fTeTc9L0BhtGW.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Avustralya",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13025,12 +13025,12 @@
     "title": "Swarm",
     "description": "Takıntılı bir hayranın favori pop yıldızının peşinden karanlık bir yolculuğa çıkmasını konu alan kara mizah dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/fjSZ1Wt2u4NRrcfZpF9K2PhrL9C.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13042,12 +13042,12 @@
     "title": "Bodkin",
     "description": "Bir podcast ekibi, İrlanda'nın küçük bir kasabasında eski bir gizemi çözmeye çalışır.",
     "poster": "https://www.themoviedb.org/t/p/original/tTO12AfQeqJqK0wC8qeiZ3rN3mQ.jpg",
-    "imdb": 6.1,
-    "tmdb": 6.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İrlanda",
     "type": "",
     "platforms": [],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13059,12 +13059,12 @@
     "title": "Ripley",
     "description": "Tom Ripley’in İtalya’daki dolandırıcılık ve suç dünyasına adım atışını konu alan kara beyaz Netflix dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/jH5lBR4jD2DTGqssGTG3asGCq0A.jpg",
-    "imdb": 7.5,
-    "tmdb": 7.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "ABD, İtalya",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13076,12 +13076,12 @@
     "title": "Kaçış",
     "description": "Türk gazetecilerin, savaşın ortasında Suriye'ye kaçırılmasıyla başlayan aksiyon dolu Exxen dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/zZQiXv9mD3mrIhpt8wEpGEWbF9w.jpg",
-    "imdb": 6.7,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Türkiye",
     "type": "",
     "platforms": [],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13093,12 +13093,12 @@
     "title": "Queen Charlotte: A Bridgerton Story",
     "description": "Bridgerton evreninde geçen, Kraliçe Charlotte’un gençliğine odaklanan yan hikaye.",
     "poster": "https://www.themoviedb.org/t/p/original/2oylYqQ9R8aHkFYvJmTObeHhJJt.jpg",
-    "imdb": 8.1,
-    "tmdb": 8.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "İngiltere",
     "type": "",
     "platforms": [],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13110,15 +13110,15 @@
     "title": "Harry Potter and the Order of the Phoenix",
     "description": "Harry ve arkadaşları, karanlık güçlere karşı Dumbledore'un Ordusu'nu kurar ve savaş başlar.",
     "poster": "",
-    "imdb": 7.1,
-    "tmdb": 7.3,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "USA",
     "type": "movie",
     "platforms": [
       "HBO Max",
       "Peacock"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13130,12 +13130,12 @@
     "title": "Gyeongseong Creature",
     "description": "1945 Kore’sinde geçen, insanlığın karanlık arzularını besleyen yaratıklarla savaşan iki kişinin hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/7mKTlM9wbG1QJAYME7vUeAulGxv.jpg",
-    "imdb": 7.6,
-    "tmdb": 7.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13147,12 +13147,12 @@
     "title": "A Killer Paradox",
     "description": "Kaza sonucu bir katil olan sıradan bir adamın, kendi suçunu saklamaya çalışırken yaşadığı olaylar.",
     "poster": "https://www.themoviedb.org/t/p/original/gKO2UZ8iUeTEZk8c0Te7yFQh5P6.jpg",
-    "imdb": 6.9,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13164,12 +13164,12 @@
     "title": "My Demon",
     "description": "Bir şeytanla evlenen bir kadının, sıradışı evliliğinde karşılaştığı tuhaf olayları konu alan fantastik Kore dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/aqYmEnqpDno2h7fF3xKAKbOjyXR.jpg",
-    "imdb": 8.2,
-    "tmdb": 8.4,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13181,12 +13181,12 @@
     "title": "Doctor Slump",
     "description": "Zorluklar içindeki iki doktorun, hayata tutunma ve kendilerini bulma hikayesini konu alan romantik komedi.",
     "poster": "https://www.themoviedb.org/t/p/original/c5bF1Z5zAg39lJk6wY0ZJ8CAsTW.jpg",
-    "imdb": 6.9,
-    "tmdb": 6.8,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13198,12 +13198,12 @@
     "title": "Bloodhounds",
     "description": "Borç batağındaki iki gencin yeraltı dünyasında hayatta kalmaya çalıştığı aksiyon dolu Kore dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/vMtRBYoxlVAsR3iQ2hwEk9r2eOG.jpg",
-    "imdb": 6.5,
-    "tmdb": 6.5,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13215,12 +13215,12 @@
     "title": "Mask Girl",
     "description": "Gündüzleri ofis çalışanı, geceleri maskeli internet fenomeni olan bir kadının çifte hayatı.",
     "poster": "https://www.themoviedb.org/t/p/original/jO6DkOZ8eW0iE2kchkeOwZH4Taf.jpg",
-    "imdb": 6.9,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13232,12 +13232,12 @@
     "title": "Daily Dose of Sunshine",
     "description": "Bir psikiyatri hemşiresinin işinde ve hayatında karşılaştığı zorluklar, umut ve dostluk öyküsü.",
     "poster": "https://www.themoviedb.org/t/p/original/1Im8EwH8sWwYc9Ab8jEsyanNf3f.jpg",
-    "imdb": 6.6,
-    "tmdb": 6.7,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13249,12 +13249,12 @@
     "title": "A Time Called You",
     "description": "Sevgilisinin ölümünden sonra zamanda yolculuk yapan bir kadının gizem dolu hikayesi.",
     "poster": "https://www.themoviedb.org/t/p/original/zq7owGhNTK0uAc7QYQANeQ0OMwB.jpg",
-    "imdb": 7.0,
-    "tmdb": 7.0,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13266,12 +13266,12 @@
     "title": "See You in My 19th Life",
     "description": "Geçmiş hayatlarını hatırlayan bir kadının, yeniden doğuş ve aşk öyküsü.",
     "poster": "https://www.themoviedb.org/t/p/original/bcDBLEa42Q6VNHQh9bFccrsYVvh.jpg",
-    "imdb": 7.0,
-    "tmdb": 7.1,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13283,12 +13283,12 @@
     "title": "Weak Hero Class 1",
     "description": "Lise öğrencileri arasında yaşanan şiddet ve dayanışmayı konu alan Kore dizisi.",
     "poster": "https://www.themoviedb.org/t/p/original/3YXxkA7uPGn8x53B6BZTwknTMlF.jpg",
-    "imdb": 6.8,
-    "tmdb": 6.6,
+    "imdb": 0.0,
+    "tmdb": 0.0,
     "country": "Güney Kore",
     "type": "",
     "platforms": [],
-    "year": 1999,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13307,7 +13307,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 1997,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13326,7 +13326,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13345,7 +13345,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13364,7 +13364,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 1992,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13383,7 +13383,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13402,7 +13402,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13421,7 +13421,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13440,7 +13440,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 1991,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13459,7 +13459,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13478,7 +13478,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13497,7 +13497,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13516,7 +13516,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13535,7 +13535,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13554,7 +13554,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13573,7 +13573,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2020,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13592,7 +13592,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13611,7 +13611,7 @@
     "platforms": [
       "BluTV"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13630,7 +13630,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13649,7 +13649,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2018,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13668,7 +13668,7 @@
     "platforms": [
       "GAİN"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13687,7 +13687,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1991,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13706,7 +13706,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13725,7 +13725,7 @@
     "platforms": [
       "Netflix"
     ],
-    "year": 1993,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13744,7 +13744,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2011,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13763,7 +13763,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2017,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13782,7 +13782,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13801,7 +13801,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2012,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13820,7 +13820,7 @@
     "platforms": [
       "TV+"
     ],
-    "year": 2016,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13839,7 +13839,7 @@
     "platforms": [
       "Show TV"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13858,7 +13858,7 @@
     "platforms": [
       "Show TV"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13877,7 +13877,7 @@
     "platforms": [
       "Star TV"
     ],
-    "year": 2005,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13896,7 +13896,7 @@
     "platforms": [
       "Show TV"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13915,7 +13915,7 @@
     "platforms": [
       "Star TV"
     ],
-    "year": 2019,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13934,7 +13934,7 @@
     "platforms": [
       "Star TV"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13953,7 +13953,7 @@
     "platforms": [
       "Star TV"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13972,7 +13972,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -13991,7 +13991,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2008,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14010,7 +14010,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14029,7 +14029,7 @@
     "platforms": [
       "Show TV"
     ],
-    "year": 1997,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14048,7 +14048,7 @@
     "platforms": [
       "Kanal D"
     ],
-    "year": 2003,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14067,7 +14067,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2014,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14086,7 +14086,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2015,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14105,7 +14105,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2022,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14124,7 +14124,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2024,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14143,7 +14143,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 1990,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14162,7 +14162,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2009,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14181,7 +14181,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14200,7 +14200,7 @@
     "platforms": [
       "ATV"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14219,7 +14219,7 @@
     "platforms": [
       "TRT 1"
     ],
-    "year": 2007,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14238,7 +14238,7 @@
     "platforms": [
       "ATV"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14257,7 +14257,7 @@
     "platforms": [
       "FOX"
     ],
-    "year": 2010,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14276,7 +14276,7 @@
     "platforms": [
       "FOX"
     ],
-    "year": 2006,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14295,7 +14295,7 @@
     "platforms": [
       "FOX"
     ],
-    "year": 2023,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14314,7 +14314,7 @@
     "platforms": [
       "FOX"
     ],
-    "year": 2000,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14333,7 +14333,7 @@
     "platforms": [
       "ATV"
     ],
-    "year": 2013,
+    "year": 0,
     "genres": [
       "Drama"
     ],
@@ -14352,7 +14352,7 @@
     "platforms": [
       "Kanal D"
     ],
-    "year": 2021,
+    "year": 0,
     "genres": [
       "Drama"
     ],
