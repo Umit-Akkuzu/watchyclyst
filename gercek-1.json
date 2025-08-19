@@ -72874,5 +72874,20 @@
     ],
     "seasonCount": null,
     "episodeCount": null
-  }
+  },
+  {
+  "id": 3501,
+  "title": "Gifted",
+  "description": "Frank, dahi yeğeni Mary’nin velayeti için mücadele ederken onun normal bir çocuk olarak büyümesini sağlamaya çalışır.",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/4/43/Gifted_poster.jpeg",
+  "imdb": 7.6,
+  "tmdb": 8.0,
+  "country": "USA",
+  "type": "movie",
+  "platforms": ["Disney+", "Amazon Prime Video"],
+  "year": 2017,
+  "genres": ["Drama", "Family"],
+  "seasonCount": null,
+  "episodeCount": null
+}
 ]
