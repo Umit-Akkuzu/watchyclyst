@@ -73712,5 +73712,20 @@
   "genres": ["Sci-Fi", "Drama", "Mystery"],
   "seasonCount": 7,
   "episodeCount": 100
+},
+{
+  "id": 3557,
+  "title": "The Vampire Diaries",
+  "description": "Kasabanın sırlarını saklayan Mystic Falls’ta, iki vampir kardeşin aynı kıza olan aşkı; aşk, kayıp, dostluk ve doğaüstü savaşlarla örülü destansı bir hikâyeye dönüşür.",
+  "poster": "https://img01.imgsinemalar.com/images/afis_buyuk/v/vampir-gunlukleri-1660924377.jpg",
+  "imdb": 7.7,
+  "tmdb": 8.3,
+  "country": "USA",
+  "type": "series",
+  "platforms": ["Netflix"],
+  "year": 2009,
+  "genres": ["Drama", "Fantasy", "Romance"],
+  "seasonCount": 8,
+  "episodeCount": 171
 }
 ]
