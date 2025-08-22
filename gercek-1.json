@@ -4383,23 +4383,25 @@
     "episodeCount": null
   },
   {
-    "id": 221,
-    "title": "Upload",
-    "description": "Ölümden sonra dijital bir dünyada yaşamaya başlayan bir adam.",
-    "poster": "https://images.macellan.online/images/tv/poster/280/420/100/b47b8eek5pwukwa1162b07a5.jpg",
-    "imdb": 7.9,
-    "tmdb": 7.8,
-    "country": "USA",
-    "type": "series",
-    "platforms": [
-      "Amazon Prime Video"
-    ],
-    "year": 0,
-    "genres": [
-      "Drama"
-    ],
-    "seasonCount": 1,
-    "episodeCount": 10
+  "id": 221,
+  "title": "Upload",
+  "description": "Greg Daniels imzalı, dijital ahiret fikrini bilim kurgu ve hicivle ele alan Amazon Prime Video dizisi.",
+  "poster": "https://static.tvmaze.com/uploads/images/medium_portrait/579/1449735.jpg",
+  "imdb": 7.8,
+  "tmdb": 8.0,
+  "country": "USA",
+  "type": "series",
+  "platforms": [
+  "Amazon Prime Video"
+  ],
+  "year": 2020,
+  "genres": [
+  "Science Fiction",
+  "Comedy",
+  "Drama"
+  ],
+  "seasonCount": 3,
+  "episodeCount": 25
   },
   {
     "id": 222,
