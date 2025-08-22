@@ -4386,7 +4386,7 @@
     "id": 221,
     "title": "Upload",
     "description": "Ölümden sonra dijital bir dünyada yaşamaya başlayan bir adam.",
-    "poster": "https://image.tmdb.org/t/p/original/yVgtl4W2nChTf4iH9sXJrHGXQ1W.jpg",
+    "poster": "https://images.macellan.online/images/tv/poster/280/420/100/b47b8eek5pwukwa1162b07a5.jpg",
     "imdb": 7.9,
     "tmdb": 7.8,
     "country": "USA",
@@ -73727,5 +73727,41 @@
   "genres": ["Drama", "Fantasy", "Romance"],
   "seasonCount": 8,
   "episodeCount": 171
+},
+{
+"id": 3558,
+"title": "Upload",
+"description": "Greg Daniels imzalı, dijital ahiret fikrini bilim kurgu ve hicivle ele alan Amazon Prime Video dizisi.",
+"poster": "https://static.tvmaze.com/uploads/images/medium_portrait/579/1449735.jpg",
+"imdb": 7.8,
+"tmdb": 8.0,
+"country": "USA",
+"type": "series",
+"platforms": [
+"Amazon Prime Video"
+],
+"year": 2020,
+"genres": [
+"Science Fiction",
+"Comedy",
+"Drama"
+],
+"seasonCount": 3,
+"episodeCount": 25
+},
+{
+  "id": 3559,
+  "title": "The Gypsy Bride",
+  "description": "Spain yapımı series; Carmen Mola'nın romanından uyarlanan suç/gizem.",
+  "poster": "https://file.macellan.online/images/280/420/100//mv5bzgeyzmrlngqtogiyos00zgy2lwjlmtatyji1yty5mdaxzdexxkeyxkfqcgc-v1-fmjpg-ux1000--1755507409.jpg",
+  "imdb": 7.2,
+  "tmdb": 7.5,
+  "country": "Spain",
+  "type": "series",
+  "platforms": ["ATRESplayer PREMIUM", "Amazon Prime Video"],
+  "year": 2022,
+  "genres": ["Drama", "Crime", "Mystery"],
+  "seasonCount": 2,
+  "episodeCount": 16
 }
 ]
