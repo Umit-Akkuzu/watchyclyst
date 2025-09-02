@@ -73744,5 +73744,20 @@
   "genres": ["Drama", "Crime", "Mystery"],
   "seasonCount": 2,
   "episodeCount": 16
+},
+{
+  "id": 3559,
+  "title": "Teen Wolf",
+  "description": "Scott McCall, sıradan bir lise öğrencisiyken bir kurt ısırığı sonucu kurt adama dönüşür. Artık insanüstü yeteneklere sahip olan Scott, kendini kurt adamlar ve kurt adam avcıları arasındaki savaşın ortasında bulur.",
+  "poster": "https://m.media-amazon.com/images/I/619zCA8CwrS.jpg",
+  "imdb": 7.7,
+  "tmdb": 8.1,
+  "country": "ABD",
+  "type": "series",
+  "platforms": ["Netflix", "Amazon Prime Video", "Hulu", "MTV"],
+  "year": 2011,
+  "genres": ["Drama", "Fantastik", "Gençlik", "Gerilim"],
+  "seasonCount": 6,
+  "episodeCount": 100
 }
 ]
