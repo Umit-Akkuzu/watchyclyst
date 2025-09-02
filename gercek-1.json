@@ -73759,5 +73759,20 @@
   "genres": ["Drama", "Fantastik", "Gençlik", "Gerilim"],
   "seasonCount": 6,
   "episodeCount": 100
+},
+{
+  "id": 3560,
+  "title": "Supernatural",
+  "description": "Sam ve Dean Winchester, babalarının izinden giderek doğaüstü varlıkları avlayan iki kardeştir. Şeytanlar, canavarlıklar ve tanrılarla mücadele ederek dünyayı korumaya çalışırlar.",
+  "poster": "https://images.macellan.online/images/tv/poster/280/420/100/b47b8eev8wvw57a1162b07a5.jpg",
+  "imdb": 8.4,
+  "tmdb": 8.1,
+  "country": "ABD",
+  "type": "series",
+  "platforms": ["Netflix", "Amazon Prime Video", "Disney+"],
+  "year": 2005,
+  "genres": ["Drama", "Fantastik", "Gerilim", "Korku"],
+  "seasonCount": 15,
+  "episodeCount": 327
 }
 ]
