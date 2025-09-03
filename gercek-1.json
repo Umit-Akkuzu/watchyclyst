@@ -73774,5 +73774,20 @@
   "genres": ["Drama", "Fantastik", "Gerilim", "Korku"],
   "seasonCount": 15,
   "episodeCount": 327
+},
+{
+  "id": 3561,
+  "title": "Good Boy",
+  "description": "Eski olimpiyat madalyalı sporcular, polis teşkilatına katılarak suçlularla mücadele ederken, geçmişleriyle yüzleşir ve adalet arayışında birleşirler.",
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSO7wqpM11298qjDCd-STGqRD7OTgAcY76LZ4n0LhvIX8TulEj",
+  "imdb": 7.6,
+  "tmdb": 7.5,
+  "country": "Güney Kore",
+  "type": "series",
+  "platforms": ["Amazon Prime Video", "Netflix", "Disney+", "TVING", "Coupang Play"],
+  "year": 2025,
+  "genres": ["Aksiyon", "Komedi", "Suç", "Romantik"],
+  "seasonCount": 1,
+  "episodeCount": 16
 }
 ]
